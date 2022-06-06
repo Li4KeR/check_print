@@ -1,0 +1,1 @@
+python c:\prin_bot\main.py
